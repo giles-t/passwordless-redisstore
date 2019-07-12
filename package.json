@@ -7,10 +7,10 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "async": "^2.0.0-rc.2",
-    "bcrypt": "^0.8.3",
+    "async": "3.1.0",
+    "bcrypt": "3.0.6",
     "passwordless-tokenstore": "0.0.10",
-    "redis": "^2.5.3"
+    "redis": "2.8.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
